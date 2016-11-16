@@ -1,6 +1,6 @@
 module Api
   module V1
-    class PostsController < ApplicationController
+    class ArticlesController < ApplicationController
 
       def index
       end
